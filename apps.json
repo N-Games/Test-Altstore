@@ -7,14 +7,19 @@
       "name": "Garfield Kart Fast & Furry",
       "bundleIdentifier": "com.microids.GarfieldKartF2P",
       "developerName": "Microids",
+	  "localizedDescription": "This is a Description"
+	  "version": "1.04",
+	  "versionDate": "2015-11-13T00:00:01Z"
       "subtitle": "Join Garfield and his friends in the funniest Fast and Furryous game!",
+	  "versionDescription": "Bug fixes.",
       "versions": [
         {
           "version": "1.04",
-          "date": "2015-11-13",
+          "date": "2015-11-13T00:00:01Z",
           "localizedDescription": "Bug fixes.",
           "downloadURL": "http://dl.dropboxusercontent.com/s/rnjcbhhjzsgtza1/Garfield%20Kart%20Fast%20%26%20Furry%201.04.ipa",
-          "size": 238468255
+          "size": 238468255,
+		  "absoluteVersion": "1.04",
         }
       ],
       "localizedDescription": "Features include: Garfield in a kart",
