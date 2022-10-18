@@ -2,33 +2,34 @@
   "name": "JStar334's Source",
   "identifier": "com.JStar334.source",
   "sourceURL": "https://raw.githubusercontent.com/N-Games/Test-Altstore/main/apps.json",
-"apps": [
-  {
-    "name": "Garfield Kart Fast & Furry",
-    "bundleIdentifier": "com.microids.GarfieldKartF2P",
-    "developerName": "Microids",
-    "subtitle": "Join Garfield and his friends in the funniest Fast and Furryous game!",
-    "versions": [
-      {
-        "version": "1.04",
-        "date": "2015-11-13",
-        "localizedDescription": "Bug fixes.",
-        "downloadURL": "http://dl.dropboxusercontent.com/s/rnjcbhhjzsgtza1/Garfield%20Kart%20Fast%20%26%20Furry%201.04.ipa",
-        "size": 238468255
-      },
-    ],
-    "localizedDescription": "Features include: Garfield in a kart",
-    "iconURL": "http://dl.dropboxusercontent.com/s/9xiqg765oapdhnl/Garfield%20Kart%20Fast%20%26%20Furry%20Icon.png",
-    "tintColor": "8A28F7"
- "permissions": [
-      {
-        "type": "photos",
-        "usageDescription": "Allows you to use your photo library to set your profile image."
-      }
-   ],
-    "screenshotURLs": [
-      "https://image.winudf.com/v2/image/Y29tLm1pY3JvaWRzLmdvb2dsZS5HYXJmaWVsZEthcnRGMlBfc2NyZWVuc2hvdHNfMl82OTdkNzA5NQ/screen-2.jpg"
-    ],
-    "beta": false
-  }
-],
+  "apps": [
+    {
+      "name": "Garfield Kart Fast & Furry",
+      "bundleIdentifier": "com.microids.GarfieldKartF2P",
+      "developerName": "Microids",
+      "subtitle": "Join Garfield and his friends in the funniest Fast and Furryous game!",
+      "versions": [
+        {
+          "version": "1.04",
+          "date": "2015-11-13",
+          "localizedDescription": "Bug fixes.",
+          "downloadURL": "http://dl.dropboxusercontent.com/s/rnjcbhhjzsgtza1/Garfield%20Kart%20Fast%20%26%20Furry%201.04.ipa",
+          "size": 238468255
+        }
+      ],
+      "localizedDescription": "Features include: Garfield in a kart",
+      "iconURL": "http://dl.dropboxusercontent.com/s/9xiqg765oapdhnl/Garfield%20Kart%20Fast%20%26%20Furry%20Icon.png",
+      "tintColor": "8A28F7",
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows you to use your photo library to set your profile image."
+        }
+     ],
+      "screenshotURLs": [
+        "https://image.winudf.com/v2/image/Y29tLm1pY3JvaWRzLmdvb2dsZS5HYXJmaWVsZEthcnRGMlBfc2NyZWVuc2hvdHNfMl82OTdkNzA5NQ/screen-2.jpg"
+      ],
+      "beta": false
+    }
+  ]
+}
