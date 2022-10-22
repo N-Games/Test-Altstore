@@ -16,7 +16,7 @@
       "localizedDescription": "Features include: Garfield in a kart.",
       "iconURL": "https://raw.githubusercontent.com/N-Games/Test-Altstore/main/garfkarticon.png",
       "tintColor": "#FC880C",
-      "size": 12346902,
+      "size": 238468255,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/N-Games/Test-Altstore/main/garfscreen1.png",
         "https://raw.githubusercontent.com/N-Games/Test-Altstore/main/garfscreen2.png",
@@ -29,7 +29,7 @@
           "date": "2015-11-13",
           "downloadURL": "https://github.com/N-Games/Test-Altstore/releases/download/Release/Garfield.Kart.Fast.Furry.1.04.ipa",
           "localizedDescription": "Bug fixes.",
-          "size": 12346902
+          "size": 238468255
         }
 	  ],
       "appID": "com.microids.GarfieldKartF2P"
