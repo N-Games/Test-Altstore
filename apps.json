@@ -12,7 +12,7 @@
       "version": "1.04",
       "versionDate": "2015-11-13",
       "versionDescription": "Bug fixes.",
-      "downloadURL": "http://dl.dropboxusercontent.com/s/rnjcbhhjzsgtza1/Garfield%20Kart%20Fast%20%26%20Furry%201.04.ipa",
+      "downloadURL": "https://github.com/N-Games/Test-Altstore/releases/download/Release/Garfield.Kart.Fast.Furry.1.04.ipa",
       "localizedDescription": "Features include: Garfield in a kart.",
       "iconURL": "https://raw.githubusercontent.com/N-Games/Test-Altstore/main/garfkarticon.png",
       "tintColor": "#FC880C",
@@ -27,7 +27,7 @@
         {
           "version": "1.04",
           "date": "2015-11-13",
-          "downloadURL": "http://dl.dropboxusercontent.com/s/rnjcbhhjzsgtza1/Garfield%20Kart%20Fast%20%26%20Furry%201.04.ipa",
+          "downloadURL": "https://github.com/N-Games/Test-Altstore/releases/download/Release/Garfield.Kart.Fast.Furry.1.04.ipa",
           "localizedDescription": "Bug fixes.",
           "size": 12346902
         }
